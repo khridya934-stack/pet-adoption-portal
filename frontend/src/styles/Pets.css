@@ -1,0 +1,38 @@
+.pets-page {
+  background-color: #FAF6EC;
+  min-height: 80vh;
+}
+
+.pets-title {
+  color: #2F4935;
+  font-weight: bold;
+}
+
+.pets-filter-card {
+  background-color: #FFFFFF;
+  border: 1px solid #E5EBDD;
+  border-radius: 16px;
+}
+
+.pets-filter-title {
+  color: #456B50;
+  font-weight: bold;
+}
+
+.pet-filter-input {
+  border: 1px solid #D8E2D3;
+  border-radius: 8px;
+}
+
+.pet-filter-input:focus {
+  border-color: #456B50;
+  box-shadow: 0 0 0 0.2rem rgba(69, 107, 80, 0.15);
+}
+
+.pets-empty {
+  color: #456B50;
+  background-color: #E7F0E5;
+  border: none;
+  border-radius: 12px;
+  padding: 20px;
+}

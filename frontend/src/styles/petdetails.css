@@ -1,0 +1,99 @@
+.pet-details-page {
+  background-color: #FAF6EC;
+  min-height: 80vh;
+}
+
+.pet-details-card {
+  max-width: 600px;
+  margin: auto;
+  background-color: #FFFFFF;
+  border: 1px solid #E5EBDD;
+  border-radius: 18px;
+  overflow: hidden;
+}
+
+.pet-details-image {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+.pet-details-body {
+  padding: 25px;
+}
+
+.pet-details-title {
+  color: #2F4935;
+  font-weight: bold;
+}
+
+.pet-details-info {
+  color: #555555;
+  line-height: 1.7;
+  overflow-wrap: anywhere;
+}
+
+.pet-details-label {
+  color: #456B50;
+  font-weight: 600;
+}
+
+.pet-status-available {
+  background-color: #E0F0E2;
+  color: #2F6840;
+  padding: 6px 12px;
+  border-radius: 20px;
+}
+
+.pet-status-adopted {
+  background-color: #F8E2DF;
+  color: #9B3730;
+  padding: 6px 12px;
+  border-radius: 20px;
+}
+
+.pet-vaccination-title {
+  color: #456B50;
+  font-weight: bold;
+}
+
+.pet-vaccination-record {
+  background-color: #F8FAF5;
+  border: 1px solid #E5EBDD;
+  border-radius: 12px;
+  padding: 16px;
+  margin-bottom: 15px;
+}
+
+.pet-vaccination-empty {
+  color: #777777;
+  background-color: #F8FAF5;
+  border-radius: 8px;
+  padding: 12px;
+}
+
+.pet-adopt-btn {
+  background-color: #456B50;
+  color: #FFFFFF;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 22px;
+}
+
+.pet-adopt-btn:hover {
+  background-color: #35563F;
+  color: #FFFFFF;
+}
+
+.pet-login-btn {
+  background-color: #456B50;
+  color: #FFFFFF;
+  border: none;
+  padding: 10px 22px;
+  border-radius: 8px;
+}
+
+.pet-login-btn:hover {
+  background-color: #35563F;
+  color: #FFFFFF;
+}

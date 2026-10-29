@@ -1,0 +1,52 @@
+.vaccinations-page {
+  background-color: #FAF6EC;
+  min-height: 80vh;
+}
+
+.vaccinations-title {
+  color: #2F4935;
+  font-weight: bold;
+}
+
+.vaccinations-empty {
+  background-color: #E7F0E5;
+  color: #456B50;
+  border: 1px solid #D8E5D3;
+  border-radius: 12px;
+  padding: 20px;
+}
+
+.vaccination-card {
+  background-color: #FFFFFF;
+  border: 1px solid #E5EBDD;
+  border-radius: 16px;
+  overflow: hidden;
+  height: 100%;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.vaccination-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(47, 73, 53, 0.12);
+}
+
+.vaccination-card-body {
+  padding: 22px;
+}
+
+.vaccination-pet-name {
+  color: #456B50;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.vaccination-detail {
+  color: #555555;
+  line-height: 1.7;
+  overflow-wrap: anywhere;
+}
+
+.vaccination-label {
+  color: #456B50;
+  font-weight: 600;
+}

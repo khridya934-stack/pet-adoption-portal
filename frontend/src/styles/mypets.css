@@ -1,0 +1,22 @@
+.my-pets-page {
+  background-color: #FAF6EC;
+  min-height: 80vh;
+}
+
+.my-pets-title {
+  color: #2F4935;
+  font-weight: bold;
+}
+
+.my-pets-loading {
+  color: #456B50;
+  padding: 30px;
+}
+
+.my-pets-empty {
+  background-color: #E7F0E5;
+  color: #456B50;
+  border: 1px solid #D8E5D3;
+  border-radius: 12px;
+  padding: 20px;
+}

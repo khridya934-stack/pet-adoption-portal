@@ -1,0 +1,56 @@
+.add-pet-page {
+  background-color: #FAF6EC;
+  min-height: 80vh;
+}
+
+.add-pet-card {
+  max-width: 600px;
+  margin: auto;
+  background-color: #FFFFFF;
+  border: 1px solid #E5EBDD;
+  border-radius: 18px;
+  overflow: hidden;
+}
+
+.add-pet-header {
+  background-color:#FFFFFF;
+  color: #456B50;
+  padding: 22px;
+  text-align: center;
+}
+
+.add-pet-form {
+  padding: 25px;
+}
+
+.add-pet-form .form-control,
+.add-pet-form .form-select {
+  border: 1px solid #D8E2D3;
+  border-radius: 8px;
+  padding: 10px 12px;
+}
+
+.add-pet-form .form-control:focus,
+.add-pet-form .form-select:focus {
+  border-color: #456B50;
+  box-shadow: 0 0 0 0.2rem rgba(69, 107, 80, 0.15);
+}
+
+.add-pet-form .form-label {
+  color: #456B50;
+  font-weight: 600;
+}
+
+.add-pet-btn {
+  background-color: #456b50;
+  color: #FFFFFF;
+  border: none;
+  border-radius: 8px;
+  padding: 11px;
+  font-weight: 600;
+}
+
+.add-pet-btn:hover {
+  background-color: #35563F;
+  color: #FFFFFF;
+}

@@ -1,0 +1,26 @@
+.portal-navbar {
+  background-color: #456B50;
+}
+
+.portal-navbar .navbar-brand {
+  color: #FFFFFF;
+}
+
+.portal-navbar .nav-link {
+  color: #F4F7F0;
+  transition: color 0.2s ease;
+}
+
+.portal-navbar .nav-link:hover,
+.portal-navbar .nav-link:focus {
+  color: #D6E8CC;
+}
+
+.portal-navbar .navbar-toggler {
+  border-color: rgba(255, 255, 255, 0.5);
+}
+
+.portal-logout {
+  border-radius: 8px;
+  font-weight: 600;
+}

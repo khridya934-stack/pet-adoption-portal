@@ -1,0 +1,69 @@
+.received-requests-page {
+  background-color: #FAF6EC;
+  min-height: 80vh;
+}
+
+.received-requests-title {
+  color: #2F4935;
+  font-weight: bold;
+}
+
+.received-requests-loading {
+  color: #456B50;
+  padding: 25px;
+}
+
+.received-requests-empty {
+  background-color: #E7F0E5;
+  color: #456B50;
+  border: 1px solid #D8E5D3;
+  border-radius: 12px;
+  padding: 20px;
+}
+
+.received-request-card {
+  background-color: #FFFFFF;
+  border: 1px solid #E5EBDD;
+  border-radius: 16px;
+  padding: 22px;
+  margin-bottom: 20px;
+  box-shadow: 0 3px 10px rgba(47, 73, 53, 0.06);
+}
+
+.received-request-pet {
+  color: #456B50;
+  font-weight: bold;
+  margin-bottom: 18px;
+}
+
+.received-request-detail {
+  color: #555555;
+  margin-bottom: 10px;
+  overflow-wrap: anywhere;
+}
+
+.received-request-status {
+  display: inline-block;
+  background-color: #E7F0E5;
+  color: #2F4935;
+  padding: 5px 12px;
+  border-radius: 20px;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+.received-request-approve {
+  background-color: #456B50;
+  border: none;
+  border-radius: 8px;
+  color: #FFFFFF;
+}
+
+.received-request-approve:hover {
+  background-color: #35563F;
+  color: #FFFFFF;
+}
+
+.received-request-reject {
+  border-radius: 8px;
+}

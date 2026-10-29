@@ -1,0 +1,54 @@
+.home-page {
+  background-color: #FAF6EC;
+  min-height: 80vh;
+}
+
+.home-label {
+  color: #456B50;
+  font-weight: 600;
+}
+
+.home-title {
+  color: #2F4935;
+  font-weight: bold;
+}
+
+.home-button {
+  background-color: #456B50;
+  color: white;
+  border-radius: 10px;
+  padding: 12px 24px;
+  text-decoration: none;
+}
+
+.home-button:hover {
+  background-color: #35563F;
+  color: white;
+}
+
+.home-register-button {
+  border: 1px solid #456B50;
+  color: #456B50;
+  border-radius: 10px;
+  padding: 12px 24px;
+  text-decoration: none;
+}
+
+.home-register-button:hover {
+  background-color: #E7F0E5;
+  color: #2F4935;
+}
+
+.home-pet-card {
+  background-color: #E7F0E5;
+  border-radius: 25px;
+  padding: 30px;
+}
+
+.home-pet-icons {
+  font-size: 80px;
+}
+
+.home-subtitle {
+  color: #456B50;
+}

@@ -1,0 +1,52 @@
+.my-adoptions-page {
+  background-color: #FAF6EC;
+  min-height: 80vh;
+}
+
+.my-adoptions-title {
+  color: #2F4935;
+  font-weight: bold;
+}
+
+.adoption-loading {
+  color: #456B50;
+  padding: 25px;
+}
+
+.adoption-empty {
+  background-color: #E7F0E5;
+  color: #456B50;
+  border: 1px solid #D8E5D3;
+  border-radius: 12px;
+  padding: 20px;
+}
+
+.adoption-card {
+  background-color: #FFFFFF;
+  border: 1px solid #E5EBDD;
+  border-radius: 14px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 3px 10px rgba(47, 73, 53, 0.06);
+}
+
+.adoption-pet-name {
+  color: #456B50;
+  font-weight: bold;
+}
+
+.adoption-detail {
+  color: #555555;
+  margin-bottom: 10px;
+  overflow-wrap: anywhere;
+}
+
+.adoption-status {
+  display: inline-block;
+  background-color: #E7F0E5;
+  color: #2F4935;
+  padding: 5px 12px;
+  border-radius: 20px;
+  font-weight: 600;
+  text-transform: capitalize;
+}
